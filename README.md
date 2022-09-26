@@ -9,7 +9,9 @@
 
 <p align="left">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=2500&color=ff0099&multiline=true&width=595&height=123&lines=Hi%2C+I'm+Mudassir Khan.;A+Programmer%2C+Flutter+Mobile Apps Developer%2C+and+Android(Java).;Being+a+tech+enthusiast+since+childhood+my+objectives+are+future-proof+;concepts%2C+self-learning%2Fdeveloping+skills+and+organized+working+mindset.;I've+worked+in+IT+sectors%2C+paticipated+in+cyberwar+and+geeky+stuffs.;Programming++and+Hacking+are+like+my+right+and+left+arms+%F0%9F%A4%9D.;+;+;+;+;+)
+ 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=2500&color=ff0099&multiline=true&width=595&height=123&lines=Hi%2C+I'm+Mudassir.;A+Programmer%2C+Mobile+Application+Developer%2C+and+Intellimalist.;Being+a+tech+enthusiast+since+childhood+my+objectives+are+future-proof+;concepts%2C+self-learning%2Fdeveloping+skills+and+organized+working+mindset.;I've+worked+in+IT+sectors%2C+paticipated+in+cyberwar+and+geeky+stuffs.;Programming++and+Mobile+Application+are+like+my+right+and+left+arms+%F0%9F%A4%9D.;+;+;+;+;+)
+
 </p>
 
 
