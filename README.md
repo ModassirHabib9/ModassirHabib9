@@ -54,10 +54,12 @@
 **🧑‍🚀 Find Me:**
 
 [![Gmail](https://img.shields.io/badge/%E2%80%8D-Gmail-D14836?&logo=gmail)](mailto:modassirhabib9@gmail.com)
+[![Facebook](https://img.shields.io/badge/%E2%80%8D-Facebook-0078D6?logo=facebook&logoColor=ffffff)](mailto:https://web.facebook.com/khan.khattak.77715)
 [![Telegram](https://img.shields.io/badge/%E2%80%8D-Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/metaspook)
 [![XDA-Developers](https://img.shields.io/badge/%E2%80%8D-XDA_Recognized_Developer-%23AC6E2F.svg?&logo=XDA-Developers)](https://forum.xda-developers.com/m/metaspook.6029298/#recent-content)
 [![Google Developers](https://img.shields.io/badge/%E2%80%8D-g.dev/metaspook-4285F4?logo=google&logoColor=white)](https://g.dev/metaspook)
 ![Profile views](https://komarev.com/ghpvc/?style=flat&label=Views&username=metaspook)
+
 
 
 <!--   I'm Metaspook, a Programmer, Ethical Hacker, and Intellimalist. Being a tech enthusiast since childhood my objectives are future-proof concepts, self-learning/developing skills and organized working mindset. I've worked in IT sectors, paticipated in cyberwar and geeky stuffs. <strong>Programming</strong> and <strong>Hacking</strong> are like my right and left arms 🤝.<br> -->
