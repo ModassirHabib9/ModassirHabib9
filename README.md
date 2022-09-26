@@ -9,17 +9,9 @@
 
 <p align="left">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=2500&color=ff0099&multiline=true&width=595&height=123&lines=Hi%2C+I'm+Metaspook.;A+Programmer%2C+Ethical+Hacker%2C+and+Intellimalist.;Being+a+tech+enthusiast+since+childhood+my+objectives+are+future-proof+;concepts%2C+self-learning%2Fdeveloping+skills+and+organized+working+mindset.;I've+worked+in+IT+sectors%2C+paticipated+in+cyberwar+and+geeky+stuffs.;Programming++and+Hacking+are+like+my+right+and+left+arms+%F0%9F%A4%9D.;+;+;+;+;+)
-  - 🔭 I’m currently focusing on <strong>[Flutter Apps Development](https://flutter.dev)</strong>.
-  - 🌱 I’m currently learning <strong>[BLoC](https://bloclibrary.dev)</strong>.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=2500&color=ff0099&multiline=true&width=595&height=123&lines=Hi%2C+I'm+Mudassir Khan.;A+Programmer%2C+Flutter+Mobile Apps Developer%2C+and+Android(Java).;Being+a+tech+enthusiast+since+childhood+my+objectives+are+future-proof+;concepts%2C+self-learning%2Fdeveloping+skills+and+organized+working+mindset.;I've+worked+in+IT+sectors%2C+paticipated+in+cyberwar+and+geeky+stuffs.;Programming++and+Hacking+are+like+my+right+and+left+arms+%F0%9F%A4%9D.;+;+;+;+;+)
 </p>
 
----
-<!-- Stats and bullets -->
-<a href="https://git.io/metaspook" target="_blank" rel="noopener noreferrer">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=metaspook&count_private=true&theme=radical&show_icons=true&include_all_commits=false&hide_rank=false"/>&emsp;
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metaspook&layout=compact&langs_count=7&theme=radical"/>
-</a>
 
 - 🔭 I’m currently working on [Flutter Developer](https://khybercoded.pk/)
 
