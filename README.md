@@ -3,14 +3,11 @@
 <h3 align="left">I am Mobile Application developer (Flutter, Android, Ios)</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=modassirhabib&label=Profile%20views&color=0e75b6&style=flat" alt="modassirhabib" /> </p>
-
-<p align="left"> <a href="https://twitter.com/modassirhabib" target="blank"><img src="https://img.shields.io/twitter/follow/modassirhabib?logo=twitter&style=for-the-badge" alt="modassirhabib" /></a> </p>
 
 <p align="left">
   
  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=2500&color=ff0099&multiline=true&width=595&height=123&lines=Hi%2C+I'm+Mudassir.;A+Programmer%2C+Mobile+Application+Developer%2C+and+Intellimalist.;Being+a+tech+enthusiast+since+childhood+my+objectives+are+future-proof+;concepts%2C+self-learning%2Fdeveloping+skills+and+organized+working+mindset.;I've+worked+in+IT+sectors%2C+paticipated+in+cyberwar+and+geeky+stuffs.;Programming++and+Mobile+Application+are+like+my+right+and+left+arms+%F0%9F%A4%9D.;+;+;+;+;+)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=2500&color=ff0099&multiline=true&width=595&height=123&lines=Hi%2C+I'm+Mudassir+Khan.;A+Programmer%2C+Mobile+Application+Developer%2C+and+Intellimalist.;Being+a+tech+enthusiast+since+childhood+my+objectives+are+future-proof+;concepts%2C+self-learning%2Fdeveloping+skills+and+organized+working+mindset.;I've+worked+in+IT+sectors%2C+paticipated+in+cyberwar+and+geeky+stuffs.;Programming++and+Mobile+Application+are+like+my+right+and+left+arms+%F0%9F%A4%9D.;+;+;+;+;+)
 
 </p>
 
