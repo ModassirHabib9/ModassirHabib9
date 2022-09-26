@@ -33,6 +33,7 @@
 **🛠️ Platform & Tools:**
 <!-- %E2%80%8D represents Zero Width Joiner Character -->
 [![Windows 11](https://img.shields.io/badge/%E2%80%8D-Windows_11-0078D6?logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-11)
+[![Windows 10](https://img.shields.io/badge/%E2%80%8D-Windows_10-0078D6?logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![Debian](https://img.shields.io/badge/%E2%80%8D-Debian-D70A53?logo=debian)](https://www.debian.org/)
 [![Kali](https://img.shields.io/badge/%E2%80%8D-Kali_Linux-557C94?logo=kali-linux&logoColor=white)](https://www.kali.org/)
 [![VS Code](https://img.shields.io/badge/%E2%80%8D-VS_Code-0078d7?logo=visual-studio-code)](https://code.visualstudio.com/)
