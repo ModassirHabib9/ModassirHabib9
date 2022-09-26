@@ -50,6 +50,11 @@
 [![Git](https://img.shields.io/badge/%E2%80%8D-Git-E44C30?logo=git)](https://git-scm.com/)
 [![Firebase](https://img.shields.io/badge/%E2%80%8D-Firebase-%23039BE5?logo=firebase)](https://firebase.google.com/)
 [![GitHub](https://img.shields.io/badge/%E2%80%8D-GitHub-white?logo=github)](https://github.com/)
+[![Firebase](https://img.shields.io/badge/%E2%80%8D-Firebase-yellow?logo=Firebase)](https://github.com/)
+[![Figma](https://img.shields.io/badge/%E2%80%8D-Figma-pink?logo=Figma)](https://github.com/)
+[![Java](https://img.shields.io/badge/%E2%80%8D-Java-white?logo=Java)](https://github.com/)
+
+
 
 **🧑‍🚀 Find Me:**
 
