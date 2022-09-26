@@ -53,7 +53,7 @@
 
 **🧑‍🚀 Find Me:**
 
-[![Gmail](https://img.shields.io/badge/%E2%80%8D-Gmail-D14836?&logo=gmail)](modassirhabib9@gmail.com)
+[![Gmail](https://img.shields.io/badge/%E2%80%8D-Gmail-D14836?&logo=gmail)](mailto:modassirhabib9@gmail.com)
 [![Telegram](https://img.shields.io/badge/%E2%80%8D-Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/metaspook)
 [![XDA-Developers](https://img.shields.io/badge/%E2%80%8D-XDA_Recognized_Developer-%23AC6E2F.svg?&logo=XDA-Developers)](https://forum.xda-developers.com/m/metaspook.6029298/#recent-content)
 [![Google Developers](https://img.shields.io/badge/%E2%80%8D-g.dev/metaspook-4285F4?logo=google&logoColor=white)](https://g.dev/metaspook)
