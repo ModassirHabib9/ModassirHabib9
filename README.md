@@ -75,6 +75,8 @@
 **🧑‍🚀 Find Me:**
 
 [![Gmail](https://img.shields.io/badge/%E2%80%8D-Gmail-D14836?&logo=gmail)](mailto:modassirhabib9@gmail.com)
+[![Twitter](https://img.shields.io/badge/%E2%80%8D-Instagram-blue?&logo=twitter)](https://twitter.com/modassirhabib)
+[![Linkdlin](https://img.shields.io/badge/%E2%80%8D-Instagram-blue?&logo=linkedin)](https://www.linkedin.com/in/https:/www.linkedin.com/in/mudassir-khan-19065a183/)
 [![Instagram](https://img.shields.io/badge/%E2%80%8D-Instagram-D14836?&logo=instagram)](https://instagram.com/https://www.instagram.com/modassir_ktk/)
 [![Facebook](https://img.shields.io/badge/%E2%80%8D-Facebook-0078D6?logo=facebook&logoColor=ffffff)](mailto:https://web.facebook.com/khan.khattak.77715)
 [![Telegram](https://img.shields.io/badge/%E2%80%8D-Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/metaspook)
@@ -89,15 +91,6 @@
 <img height="50" width="288" src="https://raw.githubusercontent.com/github/explore/gh-pages/topics/dart/dart.png">
 <img height="50" width="288" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"> -->
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://khybercoded.pk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://khybercoded.pk/" height="30" width="40" /></a>
-<a href="https://twitter.com/modassirhabib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="modassirhabib" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mudassir-khan-19065a183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mudassir-khan-19065a183/" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/khan.khattak.77715/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/khan.khattak.77715/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/modassir_ktk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/modassir_ktk/" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ModassirHabib9"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ModassirHabib9" /></a></p><br><br>
