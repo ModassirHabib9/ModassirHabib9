@@ -28,7 +28,7 @@
 
 - ⚡ Fun fact **Like Dramas**
 
-**🌍 Website:**&emsp;[https://metaspook.github.io](https://khybercoded.pk/)
+**🌍 Website:**&emsp;[Company Website](https://khybercoded.pk/)
 
 **🛠️ Platform & Tools:**
 <!-- %E2%80%8D represents Zero Width Joiner Character -->
