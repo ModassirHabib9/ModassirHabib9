@@ -53,6 +53,8 @@
 [![Firebase](https://img.shields.io/badge/%E2%80%8D-Firebase-yellow?logo=Firebase)](https://github.com/)
 [![Figma](https://img.shields.io/badge/%E2%80%8D-Figma-pink?logo=Figma)](https://github.com/)
 [![Java](https://img.shields.io/badge/%E2%80%8D-Java-white?logo=Java)](https://github.com/)
+[![Python](https://img.shields.io/badge/%E2%80%8D-Python-yellow??&logo=python&logoColor=ffffff)](https://github.com/)
+
 
 
 
