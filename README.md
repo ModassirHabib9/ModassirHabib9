@@ -7,7 +7,7 @@
 <p align="left">
   
  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=2500&color=ffffff&multiline=true&width=595&height=123&lines=Hi%2C+I'm+Mudassir+Khan.;A+Programmer%2C+Mobile+Application+Developer%2C+and+Intellimalist.;Being+a+tech+enthusiast+since+childhood+my+objectives+are+future-proof+;concepts%2C+self-learning%2Fdeveloping+skills+and+organized+working+mindset.;I've+worked+in+IT+sectors%2C+paticipated+in+cyberwar+and+geeky+stuffs.;Programming++and+Mobile+Application+are+like+my+right+and+left+arms+%F0%9F%A4%9D.;+;+;+;+;+)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=2500&color=ff0099&multiline=true&width=595&height=123&lines=Hi%2C+I'm+Mudassir+Khan.;A+Programmer%2C+Mobile+Application+Developer%2C+and+Intellimalist.;Being+a+tech+enthusiast+since+childhood+my+objectives+are+future-proof+;concepts%2C+self-learning%2Fdeveloping+skills+and+organized+working+mindset.;I've+worked+in+IT+sectors%2C+paticipated+in+cyberwar+and+geeky+stuffs.;Programming++and+Mobile+Application+are+like+my+right+and+left+arms+%F0%9F%A4%9D.;+;+;+;+;+)
 
 </p>
 
@@ -91,6 +91,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=modassirhabib9&theme=dracula" alt="modassirhabib9" /><br/></p>
 
- <a href="https://github-readme-stats.vercel.app/api?username=modassirhabib9&theme=dracula&show_icons=true&locale=en"> <img align="center" alt="modassirhabib9" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ModassirHabib9&layout=compact&theme=dracula&hide=html,css,cmake,php" /> </a>
+ <a href="https://github-readme-stats.vercel.app/api?username=modassirhabib9&show_icons=true&locale=en"> <img align="center" alt="modassirhabib9" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ModassirHabib9&layout=compact&theme=dracula&hide=html,css,cmake,php" /> </a>
  <br/>
 
