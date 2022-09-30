@@ -1,13 +1,13 @@
 
 <h1 align="left">Hi <img width="50" hight="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"/> I'm MudassirKhan</h1>
 <h3 align="left">I am Mobile Application developer (Flutter, Android, Ios)</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif"/>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif"/>
 
 
 <p align="left">
   
  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=2500&color=ff0099&multiline=true&width=600&height=300&lines=Hi%2C+I'm+Mudassir+Khan.;A+Programmer%2C+Mobile+Application+Developer%2C+and+Intellimalist.;Being+a+tech+enthusiast+since+childhood+my+objectives+are+future-proof+;concepts%2C+self-learning%2Fdeveloping+skills+and+organized+working+mindset.;I've+worked+in+IT+sectors%2C+paticipated+in+cyberwar+and+geeky+stuffs.;Programming++and+Mobile+Application+are+like+my+right+and+left+arms+%F0%9F%A4%9D.;+;+;+;+;+)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=2000&color=ff0099&multiline=true&width=440&height=170&lines=Hi%2C+I'm+Mudassir+Khan.;A+Programmer%2C+Mobile+Application+Developer%2C+and;Intellimalist+Being+a+tech+enthusiast+since+childhood+my;objectives+are+future-proof+concepts%2C+self-learning%2F;developing+skills+and+organized+working+mindset.;I've+worked+in+IT+sectors%2C+paticipated+in;+cyberwar+and+geeky+stuffs.+Programming++and;+Mobile+Application+are+like+my+right+and+left+arms+%F0%9F%A4%9D.;+;+;+;+;+)
 
 </p>
 
