@@ -87,7 +87,7 @@
 
 ### Github Stats
 
-<a href="https://github.com/ModassirHabib9"> <img align="bottom" alt="Mudassir-Khan GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ModassirHabib9&show_icons=true&hide_border=false&count_private=true&hide=contribs&include_all_commits=true" /> </a> 
+<a href="https://github.com/ModassirHabib9"> <img align="bottom" alt="Mudassir-Khan GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ModassirHabib9&theme=dracula&show_icons=true&hide_border=false&count_private=true&hide=contribs&include_all_commits=true" /> </a> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=modassirhabib9&theme=dracula" alt="modassirhabib9" /><br/></p>
 
