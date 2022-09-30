@@ -85,21 +85,12 @@
 ![Profile views](https://komarev.com/ghpvc/?style=flat&label=Views&username=metaspook)
 
 
+### Github Stats
 
-<!--   I'm Metaspook, a Programmer, Ethical Hacker, and Intellimalist. Being a tech enthusiast since childhood my objectives are future-proof concepts, self-learning/developing skills and organized working mindset. I've worked in IT sectors, paticipated in cyberwar and geeky stuffs. <strong>Programming</strong> and <strong>Hacking</strong> are like my right and left arms 🤝.<br> -->
-<!-- <img height="50" width="288" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/da‍rt.png">
-<img height="50" width="288" src="https://raw.githubusercontent.com/github/explore/gh-pages/topics/dart/dart.png">
-<img height="50" width="288" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"> -->
+<a href="https://github.com/ModassirHabib9"> <img align="bottom" alt="Mudassir-Khan GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ModassirHabib9&show_icons=true&hide_border=false&count_private=true&hide=contribs&include_all_commits=true&theme=dracula" /> </a> 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=modassirhabib9&theme=dracula" alt="modassirhabib9" /><br/></p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ModassirHabib9"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ModassirHabib9" /></a></p><br><br>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=modassirhabib&show_icons=true&locale=en" alt="modassirhabib" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=modassirhabib&" alt="modassirhabib" /></p>
-
-**🛠️ Github Contributed Graph:**
-
-<a href="https://github.com/ModassirHabib9"> <img alt="Mudassir Khan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mudassir-Khan&theme=github&area=true" width="100%" /> </a>
+ <a href="https://github-readme-stats.vercel.app/api?username=modassirhabib9&theme=dracula&show_icons=true&locale=en"> <img align="center" alt="modassirhabib9" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ModassirHabib9&layout=compact&theme=dracula&hide=html,css,cmake,php" /> </a>
+ <br/>
 
