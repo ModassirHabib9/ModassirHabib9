@@ -98,3 +98,8 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=modassirhabib&show_icons=true&locale=en" alt="modassirhabib" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=modassirhabib&" alt="modassirhabib" /></p>
+
+**🛠️ Github Contributed Graph:**
+
+<a href="https://github.com/Mudassir-Khan"> <img alt="Mudassir Khan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rezuanul-Islam-Fahim&theme=github&area=true" width="100%" /> </a>
+
