@@ -16,21 +16,11 @@
   
 - 🔭 Visit my website [Flutter Applications](https://my-college-app-13ca4.web.app/YOUR-CV-URL#/)
 
-- 🌱 I’m currently learning **Flutter (AI)**
-
-- 👯 I’m looking to collaborate on [Money Link](https://122.187.215.20/B2B_UATpayinapi/RPay/B2B)
-
 - 👨‍💻 All of my projects are available at [y.google.com/store/apps/developer?id=Mudassir+habib](y.google.com/store/apps/developer?id=Mudassir+habib)
-
-- 💬 Ask me about **Html, Css, Python, Java, Javascript**
-
+- 
 - 📫 How to reach me **modassirhabib9@gmail.com**
 
 - 📄 Know about my experiences [Flutter, Android, NodeJs](Flutter, Android, NodeJs)
-
-- ⚡ Fun fact **Like Dramas**
-
-**🌍 Website:**&emsp;[Company Website](https://khybercoded.pk/)
 
 **🛠️ Platform & Tools:**
 <!-- %E2%80%8D represents Zero Width Joiner Character -->
