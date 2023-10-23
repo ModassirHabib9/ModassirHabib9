@@ -11,17 +11,6 @@
 
 </p>
 
-
-- 🔭 I’m currently working on [Flutter Developer](https://khybercoded.pk/)
-  
-- 🔭 Visit my website [Flutter Applications](https://my-college-app-13ca4.web.app/YOUR-CV-URL#/)
-
-- 👨‍💻 All of my projects are available at [y.google.com/store/apps/developer?id=Mudassir+habib](y.google.com/store/apps/developer?id=Mudassir+habib)
-- 
-- 📫 How to reach me **modassirhabib9@gmail.com**
-
-- 📄 Know about my experiences [Flutter, Android, NodeJs](Flutter, Android, NodeJs)
-
 **🛠️ Platform & Tools:**
 <!-- %E2%80%8D represents Zero Width Joiner Character -->
 [![Windows 11](https://img.shields.io/badge/%E2%80%8D-Windows_11-0078D6?logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-11)
